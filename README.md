@@ -162,4 +162,4 @@ Author
 
 Venkatesh Gowda
 
-Software Engineer | AI Systems Developmen
+Software Engineer | AI Systems Development
